@@ -1,0 +1,14 @@
+{
+  "name": "comp308-w2017-lesson1",
+  "version": "1.0.0",
+  "description": "Demo app for NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "keywords": [
+    "ali"
+  ],
+  "author": "AliAuthor",
+  "license": "ISC"
+}
